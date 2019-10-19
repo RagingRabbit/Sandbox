@@ -1,0 +1,8 @@
+D:\Projects\Sandbox\Sandbox\bin\Debug\Sandbox.exe.config
+D:\Projects\Sandbox\Sandbox\bin\Debug\Sandbox.exe
+D:\Projects\Sandbox\Sandbox\bin\Debug\Sandbox.pdb
+D:\Projects\Sandbox\Sandbox\bin\Debug\Steamworks.NET.dll
+D:\Projects\Sandbox\Sandbox\obj\Debug\Sandbox.csprojAssemblyReference.cache
+D:\Projects\Sandbox\Sandbox\obj\Debug\Sandbox.csproj.CopyComplete
+D:\Projects\Sandbox\Sandbox\obj\Debug\Sandbox.exe
+D:\Projects\Sandbox\Sandbox\obj\Debug\Sandbox.pdb
